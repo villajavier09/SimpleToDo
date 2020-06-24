@@ -25,7 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of the application:
-![ToDoList] (ToDoList.gif)
+![Video Walkthrough](ToDoList.gif)
+
 
 ## Notes
 
